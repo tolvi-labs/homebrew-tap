@@ -1,6 +1,6 @@
 # homebrew-tap
 
-Homebrew tap for [Tolvi Labs](https://tolvilabs.com) — install the `tolvi` CLI on macOS and Linux via Homebrew.
+Homebrew tap for [Tolvi Labs](https://tolvilabs.com): install the `tolvi` CLI on macOS and Linux via Homebrew.
 
 ## Install
 
